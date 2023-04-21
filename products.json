@@ -1,0 +1,62 @@
+[
+    {
+      "name": "MacBook Pro",
+      "price": 1299.00,
+      "featured": true,
+      "company": "Apple"
+    },
+    {
+      "name": "Surface Laptop 4",
+      "price": 999.99,
+      "featured": false,
+      "company": "Microsoft"
+    },
+    {
+      "name": "Pixel 6",
+      "price": 599.00,
+      "featured": true,
+      "company": "Google"
+    },
+    {
+      "name": "Galaxy S21",
+      "price": 799.99,
+      "featured": true,
+      "company": "Samsung"
+    },
+    {
+      "name": "iPhone 13",
+      "price": 799.00,
+      "featured": false,
+      "company": "Apple"
+    },
+    {
+      "name": "ThinkPad X1 Carbon",
+      "price": 1419.00,
+      "featured": true,
+      "company": "Lenovo"
+    },
+    {
+      "name": "Surface Book 3",
+      "price": 1599.99,
+      "featured": true,
+      "company": "Microsoft"
+    },
+    {
+      "name": "Echo Dot (4th Gen)",
+      "price": 49.99,
+      "featured": true,
+      "company": "Amazon"
+    },
+    {
+      "name": "PlayStation 5",
+      "price": 499.99,
+      "featured": true,
+      "company": "Sony"
+    },
+    {
+      "name": "iPad Pro",
+      "price": 799.00,
+      "featured": true,
+      "company": "Apple"
+    }
+  ]
